@@ -1,6 +1,8 @@
 # inc
 Dynamic animated number incrementor
 
+<p>896 bytes</p>
+<p><a href="http://codepen.io/clearwavedesigns/pen/fFuKH" target="_blank">Demo</a></p>
 <p>Example:</p>
 <pre>
 new Inc({
