@@ -1,7 +1,7 @@
 # inc
-Dynamic animated number incrementor
+Dynamic animated number incrementor.
 
-<p>896 bytes</p>
+<p>&#30; 1KB</p>
 <p><a href="http://codepen.io/clearwavedesigns/pen/fFuKH" target="_blank">Demo</a></p>
 <p>Example:</p>
 <pre>
