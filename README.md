@@ -12,3 +12,5 @@ new Inc({
   currency: '$' // Optional: leading symbol
 });
 </pre>
+
+<p>If you have more than one element to increment, create multiple new Inc objects and assign them to a variable or array index.</p>
