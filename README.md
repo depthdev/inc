@@ -13,4 +13,4 @@ new Inc({
 });
 </pre>
 
-<p>NOTE: If you have more than one element to increment, create multiple new "Inc objects" and assign them each to a variable or all to an array.</p>
+<p>NOTE: If you have more than one element to increment, create you will need to create a new instance for each and assign it to something.</p>
