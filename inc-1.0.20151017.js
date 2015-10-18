@@ -6,7 +6,7 @@
  
  Author:        Adam Carson
  Website: http://clearwavedesigns.com
- Dependencies:  N/A
+ Dependencies:  None.
  
  Name(s): Inc
  Description: Animated number incrementor plugin with customizable controls.
