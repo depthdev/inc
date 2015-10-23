@@ -1,16 +1,8 @@
 /*
- Copyright 2014 by CLEARWAVE DESIGNS, LLC.
- 
- Licensed under the Apache License, Version 2.0
- http://www.apache.org/licenses/LICENSE-2.0
- 
- Author:        Adam Carson
- Website: http://clearwavedesigns.com
- Dependencies:  None.
- 
- Name(s): Inc
- Description: Animated number incrementor plugin with customizable controls.
- */
+ Inc v1.0.0
+ (c) 2014 Clearwave Designs, LLC. http://clearwavedesigns.com
+ License: Apache 2.0
+*/
 
 function Inc(obj) {
   var elem = obj.elem;
