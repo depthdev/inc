@@ -1,7 +1,7 @@
 /*
  Inc v1.0.0
  (c) 2014 Clearwave Designs, LLC. http://clearwavedesigns.com
- License: Apache 2.0
+ License: MIT
 */
 
 function Inc(obj) {
